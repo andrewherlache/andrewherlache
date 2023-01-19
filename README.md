@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [SIEM | Microsoft Sentinel RDP Audit Failure Live World Map](https://github.com/andrewherlache/laburl)
+  - [SIEM | Microsoft Sentinel RDP Audit Failure Live World Map](https://github.com/andrewherlache/SIEM-Honeypot-RDP-Lab)
   - [Active Directory Home Lab](https://github.com/andrewherlache/URL)
 
 <h2> 🤳 Connect with me:</h2>
