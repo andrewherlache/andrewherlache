@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! <br/><a href="https://www.linkedin.com/in/andrew-herlache/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Andrew! <br/><a href="https://www.linkedin.com/in/andrew-herlache/">Cybersecurity Engineer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -7,12 +7,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AndrewHerlache | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AndrewHerlache | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AndrewHerlache | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/HerlacheAndrew
-[instagram]: https://www.instagram.com/andrewherlache/
 [linkedin]: https://www.linkedin.com/in/andrew-herlache/
 
 <!--
